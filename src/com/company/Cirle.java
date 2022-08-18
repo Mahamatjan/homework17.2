@@ -2,7 +2,7 @@ package com.company;
 
 public class Cirle extends Shape{
     private  int r;
-    private  double PI = 5.14;
+    private  double PI = 3.14;
 
     public Cirle(int r) {
         this.r = r;
